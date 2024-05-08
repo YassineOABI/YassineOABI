@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Future IT Engineer<br>🔭 I’m currently working on a mobile application project<br>🌱 I’m currently learning web scraping and React.JS
+⚡ Future IT Engineer<br>🔭 I’m currently working on a management system project<br>🌱 I’m currently learning Django
 
 
 ## 🌐 Socials:
